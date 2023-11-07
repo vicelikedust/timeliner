@@ -9,7 +9,7 @@ author: Thomas Busch
 personal_site:
   url: https://curacomputers.com
   title: curacomputers
-# show today marker at end of timeline
+# Show today's marker at the end of the timeline
 show_today: true
 
 # Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
@@ -17,9 +17,12 @@ show_today: true
 periods:
   - events:
     - March 29 1993: "👶 Thomas is born in Hamilton, Ontario."
+    - September 1997: "Jr Kindergarten - Bridgeport Public School"
+    - September 1998: "Sr Kindergarten - Bridgeport Public School"
+    - September 1999: "Grade 1 - Lincoln Heights"
   - name: 2000's
     events:
-    - October 2000: "🎂 Thomas turns 7. It's a new millennium."
+    - March 29 2000: "🎂 Thomas turns 7. It's a new millennium."
     - November 2009: >-
         📷 Link Example <a href="https://curacomputers.com" target="_blank" rel="noopener"
         title="See some of my photos">Link example</a>.
