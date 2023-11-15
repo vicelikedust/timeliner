@@ -53,7 +53,7 @@ periods:
   - name: 2020's
     events:
     - May 2020: "Thomas goes crazy"
-    - March 29 2023: |- 
-        Danny surprised me on our trip to Toronto, had Melissa, Daniella, Louis, and Cameron waiting on the GO Train. 
+    - March 29 2023: | 
+        Danny surprised me on our trip to Toronto, had Melissa, Daniella, Louis, and Cameron waiting on the GO Train.\n
         We all went to Starbucks for a free birthday drink and went to the Old Spaghetti Factory
     - May 16 2023: "🎓 Started the Cyber Security Program at Conestoga College"
