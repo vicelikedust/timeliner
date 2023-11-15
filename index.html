@@ -37,7 +37,7 @@ layout: base
             {% if event[1] contains '\n' %}
               <h3 class="timeline-title multiline">{{ event[1] }}</h3>
             {% else %}
-              <h3 class="timeline-title multiline">{{ event[1] }}</h3>
+              <h3 class="timeline-title">{{ event[1] | newline_to_br }}</h3>
             {% endif %}
           </div>
         </li>
