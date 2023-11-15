@@ -121,10 +121,12 @@ a:hover {
 /*----- TIMELINE CONTENT -----*/
 .timeline-content {
   padding-bottom: 40px;
-  white-space: pre-line;
 }
 .timeline-content p:last-child {
   margin-bottom: 0;
+}
+.timeline-content-multiline {
+  white-space: pre-line:
 }
 
 /*----- TIMELINE PERIOD -----*/
