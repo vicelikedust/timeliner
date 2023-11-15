@@ -22,7 +22,7 @@ layout: base
           <div class="timeline-info"></div>
           <div class="timeline-marker"></div>
           <div class="timeline-content">
-            {% if event[1] contains '\n' %}
+            {% if period.name contains '\n' %}
               <h2 class="timeline-title multiline">{{ period.name }}</h2>
             {% else %}
               <h2 class="timeline-title">{{ period.name }}</h2>
