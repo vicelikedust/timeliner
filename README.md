@@ -2,7 +2,7 @@
 
 Make a super simple, self-hosted timeline of your life by forking this repo and editing a config file.
 
-Example: **https://timeline.neil.gg**
+Example: **https://vicelikedust.github.io/timeliner**
 
 ## Why
 
@@ -20,11 +20,3 @@ Or just use it as a changelog template for your software. What do I care?
 4. Visit http://username.github.io/timeliner
 
 This is a minimalist Jekyll template that spits out a single self-contained `index.html` file. To build the page yourself, run `jekyll build`
-
-## Who
-
-👋 I'm Neil Gupta. [See my timeline](https://timeline.neil.gg)...
-
-## Alternate Timelines
-
-I think everybody should have a timeline on their site. If you write a timeline, [let me know](mailto:timeline@neil.gg)!
